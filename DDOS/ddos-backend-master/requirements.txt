@@ -1,0 +1,13 @@
+flask
+flask-cors
+gunicorn
+torch
+scikit-learn
+river
+scapy
+pandas
+numpy
+plotly
+python-dotenv
+pydantic
+
